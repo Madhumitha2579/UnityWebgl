@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Cushion" size="6.000000 9.000000" />
+    <ImageTarget name="Singlesofa" size="6.000000 9.000000" />
+    <ImageTarget name="Table" size="6.000000 4.003125" />
+    <ImageTarget name="Wardrobe" size="6.000000 7.649403" />
+    <ImageTarget name="Sofa" size="6.000000 3.909375" />
+    <ImageTarget name="Chair" size="5.000000 7.180157" />
+  </Tracking>
+</QCARConfig>
